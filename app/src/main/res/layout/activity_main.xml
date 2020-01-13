@@ -13,8 +13,7 @@
             android:id="@+id/buttonZiele"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Ziele"
-            android:layout_marginTop="500dp"/>
+            android:text="Ziele" />
 
     </org.osmdroid.views.MapView>
 </LinearLayout>
